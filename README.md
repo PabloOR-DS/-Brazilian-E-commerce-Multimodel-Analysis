@@ -25,9 +25,7 @@ Using the Olist dataset, this project implements a full ML workflow combining pr
 
 Core datasets:
 
-- Orders, order items, customers, sellers, payments, reviews, geolocation (Olist public datasets)  
-- `reviews_data.csv` — preprocessed reviews with sentiment  
-- `forecast_df_plt.csv` — Prophet forecasts for order volumes  
+- Orders, order items, customers, sellers, payments, reviews, geolocation (Olist public datasets)    
 
 ## Models & Metrics
 
