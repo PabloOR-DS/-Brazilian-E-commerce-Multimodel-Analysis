@@ -25,7 +25,7 @@ Using the Olist dataset, this project implements a full ML workflow combining pr
 
 Core datasets:
 
-- Orders, order items, customers, sellers, payments, reviews, geolocation (Olist public datasets)    
+- Orders, order items, customers, sellers, payments, reviews, geolocation (Olist public datasets: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)   
 
 ## Models & Metrics
 
